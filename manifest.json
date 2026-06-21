@@ -1,0 +1,13 @@
+{
+  "name": "WORKLOG — Quản lý dự án & công việc",
+  "short_name": "WORKLOG",
+  "description": "Quản lý dự án, ghi chú, quyết định, cuộc họp và báo cáo tuần.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E8EAED",
+  "theme_color": "#0E1B27",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

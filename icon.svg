@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0E1B27"/>
+  <text x="256" y="200" text-anchor="middle" font-family="monospace" font-weight="700" font-size="72" letter-spacing="12" fill="#FFFFFF">WORK</text>
+  <text x="256" y="290" text-anchor="middle" font-family="monospace" font-weight="700" font-size="72" letter-spacing="12" fill="#0E6E64">LOG</text>
+  <rect x="120" y="330" width="272" height="3" rx="1.5" fill="#0E6E64" opacity="0.5"/>
+  <g fill="#8AA0B0" font-family="monospace" font-size="28" text-anchor="middle">
+    <text x="172" y="385">DA</text>
+    <text x="256" y="385">QĐ</text>
+    <text x="340" y="385">HỌP</text>
+  </g>
+</svg>
